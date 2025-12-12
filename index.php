@@ -9,7 +9,7 @@
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/hms.jpg"  alt="slider"  data-bgposition=" center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/second.png"  alt="slider"  data-bgposition=" center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 1 -->
             <div class="tp-caption sfl tp-resizeme" 
@@ -23,7 +23,7 @@
                 data-elementdelay="0.03" 
                 data-endelementdelay="0.4" 
                 data-endspeed="300"
-                style="z-index: 5; font-size:50px; font-weight:500; color:black;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
+                style="z-index: 5; font-size:50px; font-weight:900; color:black;  max-width: auto; max-height: auto; white-space: nowrap;">Hospital Management System</div>
             
             <!-- LAYER NR. 2 -->
             <div class="tp-caption sfr tp-resizeme" 
@@ -70,7 +70,7 @@
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/hms2.jpg"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/first.png"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 1 -->
             <div class="tp-caption sfl tp-resizeme" 
@@ -131,7 +131,7 @@
           <!-- SLIDE  -->
           <li data-transition="random" data-slotamount="7" data-masterspeed="300"  data-saveperformance="off" > 
             <!-- MAIN IMAGE --> 
-            <img src="images/hms3.jpg"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
+            <img src="images/third.png"  alt="slider"  data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat"> 
             
             <!-- LAYER NR. 2 -->
             <div class="tp-caption sfb tp-resizeme" 
@@ -182,23 +182,19 @@
                 <ul class="row">
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> EMERGENCY CASE</h6>
-                    <p>Excepteur sint occaecat cupidatat non roident, 
-                      sunt in culpa qui officia deserunt mollit </p>
+                    <p> SGT University has an separate department for Emergency cases </p>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> QUALIFIED DOCTORS</h6>
-                    <p>Excepteur sint occaecat cupidatat non roident, 
-                      sunt in culpa qui officia deserunt mollit </p>
+                    <p>SGT University has qualified and most famous doctors in India</p>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> ONLINE APPOINTMENT</h6>
-                    <p>Excepteur sint occaecat cupidatat non roident, 
-                      sunt in culpa qui officia deserunt mollit </p>
+                    <p>Patient can book directly via Book Now button above </p>
                   </li>
                   <li class="col-sm-6">
                     <h6> <i class="lnr  lnr-checkmark-circle"></i> FREE MEDICAL COUNSELING</h6>
-                    <p>Excepteur sint occaecat cupidatat non roident, 
-                      sunt in culpa qui officia deserunt mollit </p>
+                    <p>SGT Univesity provide free medical counselling</p>
                   </li>
                 </ul>
               </div>
