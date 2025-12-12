@@ -61,20 +61,20 @@ $tim = date("H:i:s");
   <!-- Header -->
   <header class="header-style-2">
     <div class="container">
-      <div class="logo"> <a href="index.html"><img src="images/hmslogo.png" alt="" style="height: 51px;"></a> </div>
+      <div class="logo"> <a href="index.html"><img src="images/sgtlogo.png" alt="" style="height: 51px;"></a> </div>
       <div class="head-info">
         <ul>
           <li> <i class="fa fa-phone"></i>
             <p>1010 2020 36360<br>
-              9-269-690-HMS</p>
+              8787675645</p>
           </li>
           <li> <i class="fa fa-envelope-o"></i>
-            <p>hmsphp@gmail.com<br>
-              info@hmsphp.com</p>
+            <p>Yatinarora291@yahoo.com<br>
+              vidhisharma@gmail.com</p>
           </li>
           <li> <i class="fa fa-map-marker"></i>
-            <p>1942  Poe Lane<br>
-             Kansas City</p>
+            <p>Chandu, Bhudheda, Gurgaon<br>
+             Haryana, India</p>
           </li>
         </ul>
       </div>
