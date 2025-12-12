@@ -13,7 +13,7 @@
         <div class="heading-block">
           <h4>GET IN TOUCH</h4>
           <hr>
-          <span>Duis autem vel eum iriure dolor in hendrerit n vuew lputate velit esse molestie conseu vel illum dolore eufe ugiat nulla facilisis at vero.</span> </div>
+          <span> Please fill out the form below</span> </div>
         <div class="contact">
           <div class="contact-form"> 
             <!-- FORM  -->
