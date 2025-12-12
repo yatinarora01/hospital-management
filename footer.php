@@ -6,7 +6,7 @@
         <div class="col-sm-7">
           <h6>About Us</h6>
           <div class="about-foot">
-            <p>A concern of Care and Cure Group is the only multi-disciplinary super-specialty tertiary care hospital in Bangladesh, confidently providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art technology. </p>
+            <p>A concern of SGT UNIVERSITY is the only multi-disciplinary super-specialty tertiary care hospital in Gurgaon, confidently providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art technology. </p>
           </div>
         </div>
         
@@ -16,15 +16,15 @@
         <div class="col-sm-5">
           <div class="con-info">
             <h6>Contact Us</h6>
-            <p>1942  Poe Lane, Kansas City</p>
+            <p>Chandu, Bhudheda, Gurgaon</p>
             <ul>
               <li class="mobile">
                 <p>1010 2020 36360</p>
-                <p>9-269-690-HMS</p>
+                <p>8787675645</p>
               </li>
               <li class="email">
-                <p>hmsphp@gmail.com</p>
-                <p>info@hmsphp.com</p>              </li>
+                <p>Yatinarora291@yahoo.com</p>
+                <p>vidhisharma@gmail.com</p>              </li>
             </ul>
           </div>
         </div>
@@ -35,7 +35,7 @@
   <!-- Rights -->
   <div class="rights style-2">
     <div class="container">
-      <p>© <?php echo date("Y"); ?> Hospital Management System - Template by M_ADNAN & Application Developed By <span style="color: white">Khyrul Kabir</span></p>
+      <p>© <?php echo date("Y"); ?> Hospital Management System Developed By <span style="color: white">Yatin Arora & Vidhi Sharma </span></p>
     </div>
   </div>
   
